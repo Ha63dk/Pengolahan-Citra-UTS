@@ -3,6 +3,7 @@ Tugas UTS Pengolahan CItra Semester 4
 
 Project Web App Matkul Pengolahan citra
 Cara Membukanya Tinggal klik start.batch dan bisa langsung dipilih fhoto 
+![image](https://github.com/Ha63dk/Pengolahan-Citra-UTS/assets/116054804/e052a2a4-8173-47ab-9259-ba18d718de17)
 
 Tugas 1 merubah RGb menjadi HSV:
 ![image](https://github.com/Ha63dk/Pengolahan-Citra-UTS/assets/116054804/02a640f4-1c3e-42ae-806e-924377d877f2)
